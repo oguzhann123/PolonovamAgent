@@ -23,7 +23,7 @@ Yapay zeka destekli chatbot, şehir tanıtımları ve bilgi paketleriyle kullan�
 
 ## 📸 Ekran Görüntüsü
 
-![PolonovaMagnet Screenshot](./public/assets/screenshot.png) <!-- Kendi ekran görüntünü ekleyebilirsin -->
+![PolonovaMagnet Screenshot](./src/assets/screenshot.png) <!-- Kendi ekran görüntünü ekleyebilirsin -->
 
 ---
 
