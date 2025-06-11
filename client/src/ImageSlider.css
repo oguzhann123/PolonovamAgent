@@ -1,0 +1,9 @@
+/* src/ImageSlider.css */
+.slick-slide {
+  width: 100vw !important;
+  height: 100vh !important;
+}
+
+.slick-track {
+  display: flex !important;
+}
